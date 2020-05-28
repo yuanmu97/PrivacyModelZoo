@@ -9,9 +9,8 @@ Installation:
 
 ```bash
 pip install opencv-python
-pip install pip
+pip install dlib
 ```
-
 
 
 ## OCR
@@ -24,3 +23,10 @@ https://github.com/sirfz/tesserocr
 sudo apt-get install tesseract-ocr
 ```
 
+## Scene Classification & Object Detection
+
+Installation:
+
+```bash
+pip install torch torchvision
+```
